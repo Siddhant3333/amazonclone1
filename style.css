@@ -425,7 +425,7 @@ footer p{
 #create{
     padding-top: 20px;
 }
-@media(min-width: 319px) and (max-width: 480px) {
+@media(min-width: 319px) and (max-width: 600px) {
     .navLogo{
         height: 2rem;
         width: 6rem;
